@@ -6,4 +6,4 @@ On Windows you'll need to download SDL2 and either move the SDL2 folder which co
 
 Alternatively you could create a Visual Studio project, add your include/library directories and libs in the project settings, then build through Visual Studio. You'll still need to add SDL2.dll to the project directory.
 
-This code should work on Mac as well but I don't own a Mac so I hope you don't have any trouble figuring it out yourself!
+This code should work on Mac as well, although it hasn't been properly tested.
